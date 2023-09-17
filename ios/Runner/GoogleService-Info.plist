@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>830578133656-7pf5tdn4a0s8rg5u362ckl4e12jnvbjq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.830578133656-7pf5tdn4a0s8rg5u362ckl4e12jnvbjq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>830578133656-47o2u9c7a204bqi2dss1g9vm6m3fe8ak.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDa6FhxGhbSB60_-lae9NCmdb5nD29a4EQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>830578133656</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>project.cuidadoamigo</string>
+	<key>PROJECT_ID</key>
+	<string>cuidado-amigo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cuidado-amigo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:830578133656:ios:0b4b0b9eef8184722b1eed</string>
+</dict>
+</plist>
