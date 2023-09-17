@@ -2,6 +2,9 @@
 
 1. [Cuidado Amigo](#Cuidado-Amigo)
 2. [Tech Stack](#Tech-Stack)
+3. [Imagens do Projeto](#Imagens-do-Projeto)
+4. [instalação](#Instalação)
+
 
 ## Cuidado Amigo
 
@@ -30,7 +33,7 @@ Esta é uma aplicação MVP (Minimum Viable Product), com muitas implementaçõe
 ## Instalação
 
 - Instalação apk no seu celular android:
-[Release]() pode ser testado usando emulador [BlueStacks](https://www.bluestacks.com/download.html)
+[Release](https://github.com/raphaelabenom/cuidadoAmigo-app/releases) pode ser testado usando emulador [BlueStacks](https://www.bluestacks.com/download.html)
 <br>
 - Certifique-se de ter instalado o Flutter SDK, Dart SDK e o Android Studio em seu computador.
 
